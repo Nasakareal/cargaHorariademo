@@ -1,0 +1,47 @@
+assignment_id=, group_id=698
+assignment_id=, group_id=698
+assignment_id=, group_id=698
+assignment_id=, group_id=698
+assignment_id=, group_id=698
+assignment_id=, group_id=698
+assignment_id=, group_id=698
+assignment_id=5, group_id=698
+assignment_id=6, group_id=698
+assignment_id=7, group_id=698
+assignment_id=8, group_id=707
+assignment_id=10, group_id=698
+assignment_id=11, group_id=698
+assignment_id=9, group_id=698
+assignment_id=, group_id=783
+assignment_id=, group_id=783, lab_id=
+assignment_id=28, group_id=783, lab_id=
+assignment_id=6, group_id=698, lab_id=
+assignment_id=5, group_id=698, lab_id=
+assignment_id=4, group_id=698, lab_id=
+assignment_id=2, group_id=755, lab_id=
+assignment_id=3, group_id=755, lab_id=
+assignment_id=4, group_id=755, lab_id=
+assignment_id=61, group_id=771, lab_id=
+assignment_id=63, group_id=771, lab_id=
+assignment_id=64, group_id=771, lab_id=
+assignment_id=65, group_id=771, lab_id=
+assignment_id=66, group_id=771, lab_id=
+assignment_id=62, group_id=771, lab_id=
+assignment_id=224, group_id=771, lab_id=
+assignment_id=229, group_id=771, lab_id=
+assignment_id=, group_id=771, lab_id=
+assignment_id=, group_id=771, lab_id=
+assignment_id=, group_id=771, lab_id=
+assignment_id=, group_id=771, lab_id=
+assignment_id=, group_id=771, lab_id=
+assignment_id=, group_id=771, lab_id=
+assignment_id=, group_id=771, lab_id=
+assignment_id=, group_id=771, lab_id=
+assignment_id=, group_id=771, lab_id=
+assignment_id=233, group_id=771, lab_id=
+assignment_id=126, group_id=698, lab_id=
+assignment_id=231, group_id=698, lab_id=
+assignment_id=67, group_id=698, lab_id=
+assignment_id=235, group_id=698, lab_id=
+assignment_id=126, group_id=698, lab_id=
+assignment_id=231, group_id=698, lab_id=

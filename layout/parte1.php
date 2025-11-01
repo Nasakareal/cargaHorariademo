@@ -1,5 +1,5 @@
 <?php
-include_once($_SERVER['DOCUMENT_ROOT'] . '/cargaHorariademo/app/middleware.php');
+include_once('../../app/middleware.php');
 
 
 $email_sesion = $_SESSION['sesion_email'];
